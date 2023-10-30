@@ -1,0 +1,9 @@
+{
+	"name": "azurelibadfJ",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f772f2f1-3ed2-4ded-94c9-7e4336aae443",
+		"tenantId": "951052e0-22ec-46e7-b3ea-c128c3296a22"
+	}
+}

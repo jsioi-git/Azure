@@ -1,0 +1,12 @@
+{
+	"name": "SqlServer1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=JAGBIR\\SQLEXPRESS;initial catalog=Study;user id=\"jagbir singh\"",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQENDMDk4QjFELUVBODItNDY2Qi1BRkVELTVDN0ZCN0ZENkM3MV9lYTQxYzhlOS1hMzQ2LTQ0ZmMtYTI3My05YjM4YWQyYjhjOTYiDQp9"
+		}
+	}
+}
